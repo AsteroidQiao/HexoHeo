@@ -9,8 +9,10 @@
   essay_list:
     - content: 睡不着，莫名的emo
       date: 2025/01/02 09:57:04
-    - content: 睡不着，莫名的emo
-      date: 2025/01/02 09:57:04
+    - content: 我吃吃吃，吃完继续当牛马
+      date: 2025/01/01 09:57:04
+      image:
+        - https://gitee.com/AsteroidQiao/library-management-system/raw/master/book-avatar/1735787378292b659ef5684bfe5bdc128e9fe5afc696a.jpg
     - content: 2025都来了，过的真快
       date: 2025/01/01 17:57:04
     - content: 一直加班一直加班，烦死了
