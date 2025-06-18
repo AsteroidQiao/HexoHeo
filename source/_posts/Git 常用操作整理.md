@@ -390,8 +390,11 @@ git blame <文件路径>
   - `-n <num>`：仅显示最近 `num` 次提交（如 `git log -n 5`）
   - `--oneline`：单行显示提交信息
   - `--graph`：图形化显示分支合并历史
+  - `--author=<name>`：过滤指定作者的提交
+  - `--grep=<keyword>`：过滤包含关键词的提交信息
 - **示例**：
   `git log --oneline --graph --all`（图形化显示所有分支日志）
+  `git log --author="张三" --grep="fix"` （查看张三提交的包含 "fix" 的记录）
 
 ##### `git diff` - 查看变更差异
 
