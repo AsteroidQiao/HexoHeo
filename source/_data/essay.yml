@@ -7,6 +7,10 @@
   home_essay: true
   top_background: /img/top.png
   essay_list:
+    - content: 感冒了，又是一年梅雨季
+      date: 2025/06/10 09:57:04
+      image:
+        - https://gitee.com/AsteroidQiao/library-management-system/raw/master/book-avatar/175022643258009795bbb46ebdc1485ed2c00859bbbf.jpg
     - content: 睡不着，莫名的emo
       date: 2025/01/02 09:57:04
     - content: 我吃吃吃，吃完继续当牛马

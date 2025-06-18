@@ -118,6 +118,33 @@ java -jar jenkins.war --httpPort=9099
 
 81f7f372edd54dcba39a02c5de228853
 
+![image-20250411143909953](https://gitee.com/AsteroidQiao/library-management-system/raw/master/typora/2025-04-11/ef556edf33ee799d1e08d277b5b47877.png)
+
+![image-20250411144011757](https://gitee.com/AsteroidQiao/library-management-system/raw/master/typora/2025-04-11/a1857537cd4db85634c46a28a3c4913a.png)
+
+下载安装并运行Jenkins后，即将开始进入安装向导。
+
+此安装向导会引导您完成几个快速“一次性”步骤来解锁Jenkins， 使用插件对其进行自定义，并创建第一个可以继续访问Jenkins的管理员用户。
+
+### 解锁 Jenkins
+
+当您第一次访问新的Jenkins实例时，系统会要求您使用自动生成的密码对其进行解锁。
+
+1. 浏览到 `http://localhost:8080`（或安装时为Jenkins配置的任何端口），并等待 **解锁 Jenkins** 页面出现。
+
+![Unlock Jenkins page](https://www.jenkins.io/zh/doc/book/resources/tutorials/setup-jenkins-01-unlock-jenkins-page.jpg)
+
+1. 从Jenkins控制台日志输出中，复制自动生成的字母数字密码（在两组星号之间）。
+
+![Copying initial admin password](https://www.jenkins.io/zh/doc/book/resources/tutorials/setup-jenkins-02-copying-initial-admin-password.png)
+
+1. 在 **解锁Jenkins** 页面上，将此 **密码** 粘贴到管理员密码字段中，然后单击 **继续** 。
+
+**Notes:**
+
+- 如果您以分离模式在Docker中运行Jenkins，则可以从Docker日志（[above](https://www.jenkins.io/zh/doc/book/installing/#accessing-the-jenkins-console-log-through-docker-logs)） 访问Jenkins控制台日志。
+- Jenkins控制台日志显示可以获取密码的位置（在Jenkins主目录中）。 必须在新Jenkins安装中的安装向导中输入此密码才能访问Jenkins的主UI。 如果您在设置向导中跳过了后续的用户创建步骤， 则此密码还可用作默认admininstrator帐户的密码（使用用户名“admin”）
+
 ![image-20241125094610884](https://gitee.com/AsteroidQiao/library-management-system/raw/master/typora/2024-11-25/4f364e45dcc6e06706c565bff67fc796.png)
 
 
@@ -139,3 +166,19 @@ java -jar jenkins.war --httpPort=9099
 
 
 ![image-20241125095142463](https://gitee.com/AsteroidQiao/library-management-system/raw/master/typora/2024-11-25/ff91ecec2214ec33a11c4aedae84eb91.png)
+
+
+
+
+
+
+
+常用插件
+
+git (git client,github,gitlab,gitee)
+
+Bootstrap
+
+Apache HttpComponents Cliet
+
+built-on-column
