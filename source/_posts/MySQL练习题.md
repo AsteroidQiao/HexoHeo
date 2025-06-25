@@ -2,7 +2,9 @@
 title: ☘️MySQL练习题
 date: 2024-07-05 09:19:48
 categories: 开发
-tags: mysql
+tags:
+  - mysql
+  - sql
 cover: https://gitee.com/AsteroidQiao/library-management-system/raw/master/book-avatar/17201435048851720143504361.png
 ---
 

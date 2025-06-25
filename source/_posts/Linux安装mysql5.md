@@ -2,7 +2,9 @@
 title: 🍉Linux安装mysql5
 date: 2022-10-12 16:05:31
 categories: 开发
-tags: mysql
+tags:
+  - mysql
+  - sql
 cover: https://gitee.com/AsteroidQiao/library-management-system/raw/master/book-avatar/17161896821131716189681529.png
 ---
 

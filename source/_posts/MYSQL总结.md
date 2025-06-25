@@ -2,7 +2,9 @@
 title: 🍊MYSQL总结
 date: 2024-05-20 15:31:46
 categories: 开发
-tags: mysql
+tags:
+  - mysql
+  - sql
 cover: https://gitee.com/AsteroidQiao/library-management-system/raw/master/book-avatar/17161904801141716190479461.png
 ---
 

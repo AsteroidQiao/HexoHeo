@@ -2,7 +2,9 @@
 title: 🍋MySQL本地安装
 date: 2024-06-11 11:19:48
 categories: 开发
-tags: mysql
+tags: 
+    - mysql
+    - sql
 cover: https://gitee.com/AsteroidQiao/library-management-system/raw/master/book-avatar/17180775324071718077531593.png
 ---
 # 超级详细的mysql本地安装指南
