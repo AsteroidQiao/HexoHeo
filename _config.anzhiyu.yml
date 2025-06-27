@@ -389,7 +389,22 @@ waline:
   option:
 
 
+# Twikoo
+# https://github.com/imaegoo/twikoo
+twikoo:
+  envId:
+  region:
+  visitor: false
+  option:
 
+# Artalk
+# https://artalk.js.org/guide/frontend/config.html
+artalk:
+  server:
+  site:
+  visitor: false
+  option:
+  
 # Chat Services
 # --------------------------------------
 
