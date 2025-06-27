@@ -47,6 +47,9 @@ nav:
         - name: 魔方
           link: https://cube.asteroid-qiao.top/
           icon: https://gitee.com/AsteroidQiao/library-management-system/raw/master/book-avatar/16990226138881699022613057.png
+        - name: ENGLISH
+          link: https://keyboard.asteroid-qiao.top/
+          icon: https://gitee.com/AsteroidQiao/library-management-system/raw/master/book-avatar/17510140358871751014034963.png
         - name: 收集中~
           link: /
           icon: https://gitee.com/AsteroidQiao/library-management-system/raw/master/book-avatar/1699023059974tianj.png
@@ -64,6 +67,9 @@ nav:
         - name: ChatGPT
           link: https://chat.asteroid-qiao.top/
           icon: https://gitee.com/AsteroidQiao/library-management-system/raw/master/book-avatar/1699022251879chatgpt.jpg
+        - name: bilibili
+          link: https://bilibili.asteroid-qiao.top/
+          icon: https://gitee.com/AsteroidQiao/library-management-system/raw/master/book-avatar/17510149048671751014904514.png
         - name: 待补充
           link: /
           icon: https://gitee.com/AsteroidQiao/library-management-system/raw/master/book-avatar/1699022918966Projector.png
