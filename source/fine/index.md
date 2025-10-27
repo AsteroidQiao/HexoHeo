@@ -8,21 +8,21 @@ date: 2019-7-19 19:12:02
 <!-- tab -->
 **Tower**
 
-https://tower.asteroid-qiao.top/
+https://tower.asteroidinorbit.asia/
 
 <!-- endtab -->
 
 <!-- tab -->
 **魔方**
 
-https://fireworks.asteroid-qiao.top/
+https://fireworks.asteroidinorbit.asia/
 
 <!-- endtab -->
 
 <!-- tab -->
 **烟花秀**
 
-https://fireworks.asteroid-qiao.top/
+https://fireworks.asteroidinorbit.asia/
 
 <!-- endtab -->
 {% endtabs %}
